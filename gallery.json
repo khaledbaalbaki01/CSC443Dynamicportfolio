@@ -1,0 +1,18 @@
+[
+    {
+        "name":"databaedse",
+        "src":"0712-Bad_Practices_in_Database_Design_-_Are_You_Making_These_Mistakes_Dan_Social.png",
+        "link":"Projects.php",
+        "description":"A well-built database for a university using SQL"
+    },
+    {
+        "name":"compiler",
+        "src":"what-is-a-compiler-definition-types-functions-examples-446946.webp",
+        "link":"Compilerpr.php",
+        "description":"A Compiler that turns a newly designed language to assembly."
+    }
+    
+    
+
+    
+]

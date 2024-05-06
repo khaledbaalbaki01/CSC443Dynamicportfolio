@@ -1,0 +1,38 @@
+
+<html>
+    <link href="SignupStyle.css" rel="stylesheet" type="text/css">
+    
+<head>
+
+</head>
+<body>
+    <div class="signup">
+        <h1>Create an account</h1>
+            <div class="inside">
+                <div class="box">
+                <form method="post" action="Signupnew.php">
+                    <input class="inp" name="fullname" type="text" placeholder="Full Name">
+                    <input class="inp" name="username" type="text" placeholder="Username">
+                    <input class="inp" name="password" type="password" placeholder="Password">
+                    <label class="gen" for="genders">Sex:</label>
+                    <select class="opt" name="gender">
+                        <option>Select</option>
+                        <option>Male</option>
+                        <option>Female</option>
+                        <option>Other</option>
+
+                    </select>
+                    <label class="br" for="birth">Date of birth:</label>
+                    <input type="date" id="birth" name="birthdate">
+                    <br>
+                    <input type="checkbox" name="terms">
+                    <label class="tc" for="terms"> Accept terms and conditions.</label>
+                    <br> 
+                    <button class="bt" type="submit" name="signup">Sign Up </button>
+                </form>
+                
+                </div>
+            </div>
+            <p>Already have an account?<a href="Login.html">Login</a></p>
+    </div>
+</body>

@@ -1,0 +1,23 @@
+[
+    {
+        "id": "202102928",
+        "name": "Khaled Baalbaki",
+        "wage": "20$\/hr",
+        "tasks": "Process deposits, withdrawals and payments",
+        "position": "9pm till 5am"
+    },
+    {
+        "id": "202203964",
+        "name": "Issa Assi",
+        "wage": "0",
+        "tasks": "none",
+        "position": "unknown"
+    },
+    {
+        "id": "202105305",
+        "name": "Ahmad Mantash",
+        "wage": "0",
+        "tasks": "none",
+        "position": "unknown"
+    }
+]

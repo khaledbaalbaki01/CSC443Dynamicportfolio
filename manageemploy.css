@@ -1,0 +1,57 @@
+.html,head,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+
+}  
+.top{
+    background-color:wheat;
+    height: 90px;
+    margin: 0px;
+}
+.title{
+    text-align: center;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 23px;
+}
+
+.inp{
+    margin-left: 20px;  
+    
+        width: 20%;
+        margin: 10px;
+        padding: 10px;
+        border: 1px solid;
+        color: black;
+        font-size: 10px;
+    
+    
+}
+.bt{
+    margin-left: 20px; 
+}
+.Wagee{
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20px;
+}
+.task{
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20px;
+}
+.pos{
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20px;
+    margin-bottom: 20pxpx;
+}
+.emp{
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20px;
+    
+}

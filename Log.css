@@ -1,0 +1,84 @@
+.html,head,body{
+    margin: 0px;
+    border: 0px;
+    
+}
+.signup h1{
+    color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 30px;
+}
+.signup{
+    background:wheat ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    
+    
+}
+.inside{
+    padding: 0px;
+    margin: 20px;
+    width: 40%;
+    align-items: center;
+    background: black;
+    flex-wrap: wrap;
+    display: flex;
+}
+.box{
+    padding: 30px;
+    background:blanchedalmond;
+    color: bisque;
+    flex-grow: 1;
+    flex-basis: 100%;
+}
+.inp{
+    width: 92%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid;
+    color: black;
+    font-size: 10px;
+
+}
+.gen{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    margin-left: 5%;
+   
+}
+.br{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    margin-left: 10%;
+    
+}
+.opt{
+    width: 30%;
+    
+}
+.tc{
+    color: black;
+    
+}
+input[type=checkbox]{
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-bottom: 3%;
+}
+.bt{
+    width: 30%;
+    margin-left: 32%;
+    padding: 8px;
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    text-align: center;
+    
+}
+.bt:hover{
+    background-color: black;
+    color: white;
+}

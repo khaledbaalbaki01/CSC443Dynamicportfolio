@@ -1,0 +1,122 @@
+[
+    {
+        "fullname": "khaled",
+        "username": "me",
+        "password": "mm",
+        "gender": "Female",
+        "birthdate": "2024-04-03",
+        "terms": true
+    },
+    {
+        "fullname": "khaled",
+        "username": "m",
+        "password": "ss",
+        "gender": "Female",
+        "birthdate": "2024-04-03",
+        "terms": true
+    },
+    {
+        "fullname": "khaled",
+        "username": "sad",
+        "password": "me",
+        "gender": "Male",
+        "birthdate": "2024-04-03",
+        "terms": true
+    },
+    {
+        "fullname": "khaled",
+        "username": "him",
+        "password": "this",
+        "gender": "Male",
+        "birthdate": "2024-04-03",
+        "terms": true
+    },
+    {
+        "fullname": "khaled",
+        "username": "she",
+        "password": "she",
+        "gender": "Male",
+        "birthdate": "2024-04-03",
+        "terms": true
+    },
+    {
+        "fullname": "khaled",
+        "username": "oh",
+        "password": "oh",
+        "gender": "Male",
+        "birthdate": "2024-04-03",
+        "terms": true
+    },
+    {
+        "fullname": "khaled",
+        "username": "bb",
+        "password": "bb",
+        "gender": "Male",
+        "birthdate": "2024-04-09",
+        "terms": false
+    },
+    {
+        "fullname": "f",
+        "username": "f",
+        "password": "f",
+        "gender": "Male",
+        "birthdate": "2024-04-10",
+        "terms": true
+    },
+    {
+        "fullname": "yy",
+        "username": "yy",
+        "password": "y",
+        "gender": "Select",
+        "birthdate": "",
+        "terms": false
+    },
+    {
+        "fullname": "b",
+        "username": "b",
+        "password": "b",
+        "gender": "Male",
+        "birthdate": "2024-04-16",
+        "terms": true
+    },
+    {
+        "fullname": "ef",
+        "username": "de",
+        "password": "ec",
+        "gender": "Male",
+        "birthdate": "2024-04-02",
+        "terms": true
+    },
+    {
+        "fullname": "hh",
+        "username": "mm",
+        "password": "ss",
+        "gender": "Male",
+        "birthdate": "2024-04-02",
+        "terms": true
+    },
+    {
+        "fullname": "hh",
+        "username": "w",
+        "password": "w",
+        "gender": "Male",
+        "birthdate": "2024-04-02",
+        "terms": true
+    },
+    {
+        "fullname": "k",
+        "username": "k",
+        "password": "k",
+        "gender": "Male",
+        "birthdate": "2024-04-02",
+        "terms": true
+    },
+    {
+        "fullname": "wd",
+        "username": "ed",
+        "password": "ed",
+        "gender": "Male",
+        "birthdate": "2024-04-02",
+        "terms": true
+    }
+]
